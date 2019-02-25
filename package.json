@@ -1,0 +1,18 @@
+{
+  "name": "@smartcare/policies",
+  "version": "0.1.0",
+  "description": "Smartcare LLC policies",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smart-care/policies.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/smart-care/policies/issues"
+  },
+  "homepage": "https://github.com/smart-care/policies#readme",
+  "files": [
+    "policies/*"
+  ]
+}
