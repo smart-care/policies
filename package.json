@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/smart-care/policies#readme",
   "files": [
-    "policies/*"
+    "website/*"
   ]
 }
