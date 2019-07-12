@@ -1,4 +1,4 @@
-# Smartcare Terms and Conditions
+# Smartcare Terms of Service
 _Last Updated: July 12, 2019_
 
 The following Terms of Service (“Terms”, “Agreement”) represent a legal agreement between You and Smartcare, LLC (“Smartcare”). Please read this agreement carefully, as it governs your use of Smartcare’s (“Smartcare”) services, including Smartcare’s website (www.smartcare.io) and any other websites that we may later own or operate (“Site(s)”); mobile applications (“App(s)”), application program interface(s) (“API(s)”) and other products and services we may later own or operate (collectively called “Services”). Violation of any of the terms below may result in the termination of your account.
